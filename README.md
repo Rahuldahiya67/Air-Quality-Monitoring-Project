@@ -1,5 +1,4 @@
 # Air Quality Monitoring Project: Detailed Report
-*Submitted by: Rahul, CS-DA, 223043*
 
 ## Introduction
 Public health is directly impacted by air quality, one of the most important environmental factors. The goal of this project is to analyze and visualize real-time Air Quality Index (AQI) data across major Philippine cities using PySpark and Databricks. A data stream is simulated, window-based stream processing is implemented, detailed data analysis is done, and dynamic visualizations are made.
